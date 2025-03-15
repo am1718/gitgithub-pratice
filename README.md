@@ -1,4 +1,4 @@
 # gitgithub-pratice
 just for learing
 <br>
-author Adarsh
+author Adarsh c n 
